@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:webKit.xcodeproj">
+      location = "self:/Users/westkraemer/Desktop/swiftProjects/webKit/webKitApp.xcodeproj">
    </FileRef>
 </Workspace>

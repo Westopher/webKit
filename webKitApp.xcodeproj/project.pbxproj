@@ -15,7 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		3DDD42DF22C22CC2007D0998 /* webKit.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = webKit.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		3DDD42DF22C22CC2007D0998 /* webKitApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = webKitApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		3DDD42E222C22CC2007D0998 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		3DDD42E422C22CC2007D0998 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		3DDD42E722C22CC2007D0998 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -46,7 +46,7 @@
 		3DDD42E022C22CC2007D0998 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				3DDD42DF22C22CC2007D0998 /* webKit.app */,
+				3DDD42DF22C22CC2007D0998 /* webKitApp.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -67,9 +67,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		3DDD42DE22C22CC2007D0998 /* webKit */ = {
+		3DDD42DE22C22CC2007D0998 /* webKitApp */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 3DDD42F122C22CC2007D0998 /* Build configuration list for PBXNativeTarget "webKit" */;
+			buildConfigurationList = 3DDD42F122C22CC2007D0998 /* Build configuration list for PBXNativeTarget "webKitApp" */;
 			buildPhases = (
 				3DDD42DB22C22CC2007D0998 /* Sources */,
 				3DDD42DC22C22CC2007D0998 /* Frameworks */,
@@ -79,9 +79,9 @@
 			);
 			dependencies = (
 			);
-			name = webKit;
+			name = webKitApp;
 			productName = webKit;
-			productReference = 3DDD42DF22C22CC2007D0998 /* webKit.app */;
+			productReference = 3DDD42DF22C22CC2007D0998 /* webKitApp.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -99,7 +99,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 3DDD42DA22C22CC2007D0998 /* Build configuration list for PBXProject "webKit" */;
+			buildConfigurationList = 3DDD42DA22C22CC2007D0998 /* Build configuration list for PBXProject "webKitApp" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -112,7 +112,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				3DDD42DE22C22CC2007D0998 /* webKit */,
+				3DDD42DE22C22CC2007D0998 /* webKitApp */,
 			);
 		};
 /* End PBXProject section */
@@ -317,7 +317,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		3DDD42DA22C22CC2007D0998 /* Build configuration list for PBXProject "webKit" */ = {
+		3DDD42DA22C22CC2007D0998 /* Build configuration list for PBXProject "webKitApp" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				3DDD42EF22C22CC2007D0998 /* Debug */,
@@ -326,7 +326,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		3DDD42F122C22CC2007D0998 /* Build configuration list for PBXNativeTarget "webKit" */ = {
+		3DDD42F122C22CC2007D0998 /* Build configuration list for PBXNativeTarget "webKitApp" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				3DDD42F222C22CC2007D0998 /* Debug */,
